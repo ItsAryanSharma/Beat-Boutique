@@ -26,7 +26,7 @@ To get started, follow these simple steps:
 
 Images of the website :
 
-![Home Page](https://github.com/ItsAryanSharma/Beat-Boutique/assets/123888689/50652829-77ef-4c15-8e3a-dfa62a7)
+![Home Page](https://github.com/ItsAryanSharma/Beat-Boutique/assets/123888689/2b986ada-161e-4bc5-9126-f8494a039677)
 
 ![Vision](https://github.com/ItsAryanSharma/Beat-Boutique/assets/123888689/4661801d-19a4-4b5b-8473-c21484bb18a1)
 
